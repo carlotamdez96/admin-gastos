@@ -16,7 +16,7 @@
         class="reset-app"
         type="button"
         @click="$emit('reset-app')"
-      >Reseatear App
+      >Resetear App
     </button>
     <p>
       <span>Presupuesto:</span>
